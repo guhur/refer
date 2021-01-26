@@ -11,4 +11,4 @@ data/refcocog
 .ipynb_checkpoints
 
 # .pyc
-*.pyc
+*.pyc*.so

@@ -36,7 +36,7 @@ from matplotlib.collections import PatchCollection
 from matplotlib.patches import Polygon, Rectangle
 from pprint import pprint
 import numpy as np
-from external import mask
+from tools.refer.external import mask
 
 # import cv2
 # from skimage.measure import label, regionprops
